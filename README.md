@@ -1,9 +1,8 @@
-# vscodeの設定
+# vscodeでiTerm likeなワークベンチ切り替え・タブ切り替えを行う
 
 Menu Bar > Code > Preferences > Keybords Shortcuts
 keybindings.json
 
-iTerm likeなワークベンチ切り替えを行う。
 
 - Cmd + 1 ~ 9: 現フォーカス中のワークベンチでタブ切り替え
 - Cmd + [: 一つ前のワークベンチにフォーカス
